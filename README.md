@@ -12,4 +12,4 @@ The nearest airport is MCI.
 3. Take Independence Ave and Benton Blvd to Gladstone Blvd
 
 * Los Altos Jalisco
-* Kessler Waterpfall
+* Kessler Waterpfall.
