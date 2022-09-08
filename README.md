@@ -15,3 +15,11 @@ The nearest airport is MCI.
 * Kessler Waterpfall.
 
 [About](https://github.com/Sivabajee/assignment2-porandla/blob/main/AboutMe.md)
+
+--- 
+# palces to visit
+| City | Location | Time  |
+| --- | --- | ---: |
+| Mayville | Mozingo lake<br> nwsu | 2hr <br> 3hr |
+| kensas | musuem | 3hr |
+| florida | miami beach | 5hr|
