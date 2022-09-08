@@ -28,5 +28,5 @@ The nearest airport is MCI.
 ---
 
 # qoutes i like 
- > BE like water  *brucelee*
+ > BE like water  *brucelee* <br>
  > Be yourself    *self*
