@@ -23,3 +23,9 @@ The nearest airport is MCI.
 | Mayville | Mozingo lake<br> nwsu | 2hr <br> 3hr |
 | kensas | musuem | 3hr |
 | florida | miami beach | 5hr|
+
+
+---
+
+# qoutes i like 
+ > BE like water  *brucelee*
